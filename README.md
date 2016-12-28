@@ -36,7 +36,7 @@ Install ZSH and OhMyZSH (https://gist.github.com/tsabat/1498393).
 - Install ZSH
 - Switch default shell to ZSH
 - Install OhMyZSH
--Configure ZSH themes, plugins, ect.
+- Configure ZSH themes, plugins, ect.
 
 Step 7:
 Install perferred linux utilities (ie. htop, screen, tmux, etc.)
