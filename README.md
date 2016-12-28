@@ -41,22 +41,22 @@ Install ZSH and OhMyZSH (https://gist.github.com/tsabat/1498393).
 Step 7:
 Install perferred linux utilities (ie. htop, screen, tmux, etc.)
 
-Step 6:
+Step 8:
 Point DNS records (hosted on Google Domains) to the server's IP address.
 - @ A record -> web server IP address
 - www A record -> web server IP address
 
-Step 7:
+Step 9:
 Setup virtual hosts for all 3 domains (https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-16-04).
 - Create folders to house for domains
 - Create virtual host config files for domains
 
-Step 8:
+Step 10:
 Setup 301 redirects on the secondary domains to the main domain.
 - OpenALZ.com -> OpenALZ.org
 - OpenAlzheimers.org -> OpenALZ.org
 
-Step 9:
+Step 11:
 Install and setup WordPress (https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04).
  - Create database and grant permmissions
  - Download WordPress tar
@@ -64,11 +64,14 @@ Install and setup WordPress (https://www.digitalocean.com/community/tutorials/ho
  - Edit database credentials in wp-config.php
  - Run WordPress install script
 
-Step 10:
+Step 12:
 Install WodPress themes and plugins.
 
-Step 11:
+Step 13:
 Configure GoogleAnalytics.
 
-Step 12:
+Step 14:
 Configure theme and add replace images and copy.
+
+Step 15
+Setup sitemap and submit to Google Search Console.
