@@ -61,3 +61,14 @@ Install and setup WordPress (https://www.digitalocean.com/community/tutorials/ho
  - Create database and grant permmissions
  - Download WordPress tar
  - Extract WordPress files to root directory
+ - Edit database credentials in wp-config.php
+ - Run WordPress install script
+
+Step 10:
+Install WodPress themes and plugins.
+
+Step 11:
+Configure GoogleAnalytics.
+
+Step 12:
+Configure theme and add replace images and copy.
