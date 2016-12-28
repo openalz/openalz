@@ -1,5 +1,6 @@
 OpenALZ Setup Readme
 ------------------------------------
+Visit us at http://openalz.org
 
 Step 1:
 Get inspired.
