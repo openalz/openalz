@@ -58,4 +58,6 @@ Setup 301 redirects on the secondary domains to the main domain.
 
 Step 9:
 Install and setup WordPress (https://www.digitalocean.com/community/tutorials/how-to-install-wordpress-with-lamp-on-ubuntu-16-04).
-
+ - Create database and grant permmissions
+ - Download WordPress tar
+ - Extract WordPress files to root directory
