@@ -73,5 +73,5 @@ Configure GoogleAnalytics.
 Step 14:
 Configure theme and add replace images and copy.
 
-Step 15
+Step 15:
 Setup sitemap and submit to Google Search Console.
